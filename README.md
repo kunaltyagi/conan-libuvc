@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.com/bincrafters/conan-libuvc.svg?branch=stable%2F0.0.6)](https://travis-ci.com/bincrafters/conan-libuvc)
-
-## Conan package recipe for [*libuvc*](https://github.com/libuvc/libuvc)
+## Conan package recipe for [*libuvc*](https://github.com/groupgets/libuvc)
 
 ## Available Options
 | Option        | Default | Possible Values  | Description |

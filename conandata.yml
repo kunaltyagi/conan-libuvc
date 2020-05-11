@@ -2,3 +2,6 @@ sources:
   "0.0.6":
     url: "https://github.com/libuvc/libuvc/archive/v0.0.6.tar.gz"
     sha256: "42175a53c1c704365fdc782b44233925e40c9344fbb7f942181c1090f06e2873"
+  "master":
+    url: "https://github.com/groupgets/libuvc/archive/master.zip"
+    sha256: "ca52b36d708e9bdf9fe8837868c594a3ca7b3fba5285c9f5ff2ac79aafb030cd"
